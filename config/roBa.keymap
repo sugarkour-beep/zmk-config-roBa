@@ -120,9 +120,9 @@
 
         MOUSE {
             bindings = <
-&trans  &trans  &trans  &trans  &trans                      &trans        &kp LG(LS(T))  &kp LG(LEFT_BRACKET)  &kp LG(RIGHT_BRACKET)  &kp LG(W)
+&trans  &trans  &trans  &trans  &trans                      &trans        &kp LG(LS(T))  &kp LG(LEFT_BRACKET)  &kp LG(RIGHT_BRACKET)  &kp LG(Q)
 &trans  &trans  &trans  &trans  &trans  &trans      &trans  &kp UP_ARROW  &mkp MB1       &mkp MB3              &mkp MB2               &kp LG(Q)
-&trans  &trans  &trans  &trans  &trans  &trans      &trans  &kp DOWN      &kp DOWN       &kp LG(LA(LEFT))      &kp LG(LA(RIGHT))      &kp LG(W)
+&trans  &trans  &trans  &trans  &trans  &trans      &trans  &kp DOWN      &lt 5 SPACE    &kp LG(LA(LEFT))      &kp LG(LA(RIGHT))      &kp LG(W)
 &trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans                                                                    &trans
             >;
         };
