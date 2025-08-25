@@ -125,10 +125,10 @@
 
         layer_3 {
             bindings = <
-&trans     &trans     &kp LG(R)  &trans     &trans                                &kp C_VOLUME_UP    &kp LC(LS(TAB))  &kp LG(Q)        &kp LG(LS(T))  &kp LC(TAB)
-&kp LG(A)  &kp LG(S)  &kp LG(D)  &kp LG(F)  &kp LG(G)         &trans      &trans  &kp C_VOLUME_DOWN  &kp LG(W)        &kp LG(LEFT)     &kp LG(RIGHT)  &kp LC(UP_ARROW)
-&kp LG(Z)  &kp LG(X)  &kp LG(C)  &kp LG(V)  &trans            &trans      &trans  &trans             &trans           &kp LC(LS(TAB))  &kp LC(TAB)    &trans
-&trans     &trans     &trans     &trans     &kp LC(UP_ARROW)  &trans      &trans  &trans                                                              &trans
+&trans     &trans     &kp LG(R)  &trans     &trans                                &kp C_VOLUME_UP    &trans     &kp LG(Q)        &kp LG(LS(T))  &trans
+&kp LG(A)  &kp LG(S)  &kp LG(D)  &kp LG(F)  &kp LG(G)         &trans      &trans  &kp C_VOLUME_DOWN  &kp LG(W)  &kp LG(LEFT)     &kp LG(RIGHT)  &kp LC(UP_ARROW)
+&kp LG(Z)  &kp LG(X)  &kp LG(C)  &kp LG(V)  &trans            &trans      &trans  &trans             &trans     &kp LC(LS(TAB))  &kp LC(TAB)    &trans
+&trans     &trans     &trans     &trans     &kp LC(UP_ARROW)  &trans      &trans  &trans                                                        &trans
             >;
         };
 
